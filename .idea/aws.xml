@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="accountSettings">
+    <option name="activeProfile" value="profile:default" />
+    <option name="activeRegion" value="eu-central-1" />
+    <option name="recentlyUsedProfiles">
+      <list>
+        <option value="profile:default" />
+        <option value="profile:AdministratorAccess-022499018005" />
+        <option value="profile:022499018005_AdministratorAccess-022499018005-AdministratorAccess" />
+        <option value="profile:d-99676c94f9-022499018005-AdministratorAccess" />
+      </list>
+    </option>
+    <option name="recentlyUsedRegions">
+      <list>
+        <option value="eu-central-1" />
+        <option value="us-east-1" />
+      </list>
+    </option>
+  </component>
+  <component name="connectionManager">
+    <option name="activeConnectionId" value="sso;us-east-1;https://view.awsapps.com/start" />
+  </component>
+  <component name="explorerToolWindow">
+    <option name="selectedTab" value="Explorer" />
+  </component>
+</project>
